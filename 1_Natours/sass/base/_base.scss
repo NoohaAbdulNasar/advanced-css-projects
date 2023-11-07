@@ -1,0 +1,16 @@
+*,
+*::after,
+*::before {
+    margin:0;
+    padding:0;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%; /* I want 10px as font-size when 16px is set as default 
+                        (10%/100%=62.5%)-- ie, it defines what 1rem is. */
+}
+
+body{
+    box-sizing: border-box;
+}

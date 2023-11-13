@@ -1,7 +1,7 @@
-# advanced-css-projects
+# Advanced CSS Projects
 Projects to master advanced CSS techniques, including flexbox, CSS Grid and responsive design.
 
-## Project 1: Tour Booking Website
+## Project 1: Natours Website
 ### *Build using float layouts and media queries*
 
 - **Description**: Na-tours is an alluring and interactive website designed for a fictional company that offers tours in the nature. With sleek modern design, engaging animations, and CSS-powered interactive features.

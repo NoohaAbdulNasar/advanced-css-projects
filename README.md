@@ -15,3 +15,9 @@ Projects to master advanced CSS techniques, including flexbox, CSS Grid and resp
 - **Source Code**: [GitHub Repository](https://github.com/NoohaAbdulNasar/advanced-css-projects/tree/main/2_Trillo)
 - **Live Demo**: [Trillo App](https://trillo-booking-app-ui.netlify.app/)
 
+## Project 3:  Nexter - Luxury Real Estate Website
+### *Build using CSS Grids*
+
+- **Description**: Nexter features landing page of a fictitious luxury home-selling company. Emphasizing the power of CSS grids extensively, this project showcases grid layouts in various components, including the page layout, headers, image galleries, and responsive designs. 
+- **Source Code**: [GitHub Repository](https://github.com/NoohaAbdulNasar/advanced-css-projects/tree/main/3_Nexter)
+- **Live Demo**: [Nexter](https://nexter-luxury-home-sale.netlify.app/)
